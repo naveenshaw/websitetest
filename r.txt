@@ -57,7 +57,7 @@ django-seo2==1.0.1
 django-storages==1.9.1
 dnslib==0.9.10
 dnspython==1.16.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 email-validator==1.0.3
 entrypoints==0.3
 Flask==1.1.1
