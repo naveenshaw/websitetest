@@ -18,7 +18,7 @@ boltons==19.1.0
 Brotli==1.0.7
 bs4==0.0.1
 cairocffi==1.1.0
-CairoSVG==2.4.2
+CairoSVG==2.5.1
 capstone==3.0.5
 Cerberus==1.2
 certifi==2019.11.28
