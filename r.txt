@@ -119,7 +119,7 @@ lazy-object-proxy==1.4.3
 ldap3==2.5.1
 LibAppArmor==2.13.3
 logutils==0.3.3
-lxml==4.3.3
+lxml==4.9.1
 Mako==1.1.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
