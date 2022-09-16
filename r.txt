@@ -120,7 +120,7 @@ ldap3==2.5.1
 LibAppArmor==2.13.3
 logutils==0.3.3
 lxml==4.3.3
-Mako==1.1.1
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 mate-menu==19.10.1
